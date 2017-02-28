@@ -17,7 +17,7 @@
 Welche Cruise Line passt zu mir?
 
 (Lead-in copy:)
-Cruise Lines sind genau so individuell wie Menschen. Sie kšnnen mit Sicherheit eine finden, die ganz genau zu Ihnen passt. Mit ein paar simplen Abgaben kšnnen wir Ihnen dabei helfen, die perfekte Kreuzfahrtgesellschaft fŸr Sie zu finden. Probieren Sie es aus.
+Cruise Lines sind genau so individuell wie Menschen. Sie können mit Sicherheit eine finden, die ganz genau zu Ihnen passt. Mit ein paar simplen Abgaben können wir Ihnen dabei helfen, die perfekte Kreuzfahrtgesellschaft für Sie zu finden. Probieren Sie es aus.
 
 (Radiobuttons/Slider:)
 - Ich reise alleine
@@ -43,9 +43,7 @@ Cruise Lines sind genau so individuell wie Menschen. Sie kšnnen mit Sicherheit 
 
 (Button: Ergebnis anzeigen.)
 
-
-
-02. Wo kann ich eine Kreuzfahrt machen?
+_02. Wo kann ich eine Kreuzfahrt machen?_
 
 (Grafik: Weltkarte mit Kreuzfahrt-Regionen.)
 
@@ -53,61 +51,74 @@ Cruise Lines sind genau so individuell wie Menschen. Sie kšnnen mit Sicherheit 
 Wo kann ich eine Kreuzfahrt machen?
 
 (Lead-in copy:)
-Eine Kreuzfahrt kšnnen Sie auf allen Meeren der Welt machen. Die beliebtesten Regionen fŸr Kreuzfahrten finden Sie in der folgenden Liste. Vergessen Sie nicht, dass auf der SŸdhalbkugel im Juni Winter und zu Weihnachten Hochsommer ist, falls Sie unserem Winter entfliehen mšchten. 
+Eine Kreuzfahrt kšnnen Sie auf allen Meeren der Welt machen. Die beliebtesten Regionen für Kreuzfahrten finden Sie in der folgenden Liste. Vergessen Sie nicht, dass auf der Südhalbkugel im Juni Winter und zu Weihnachten Hochsommer ist, falls Sie unserem Winter entfliehen mšchten. 
 
-(Liste sortierbar nach Beliebtheit, Preis. Anklicken lŠdt Angebote oder in eine Content-Seite Ÿber die ausgewŠhlte Region.) 
+(Liste sortierbar nach Beliebtheit, Preis. Anklicken lädt Angebote oder in eine Content-Seite über die ausgewählte Region.) 
+
 (Subline:)
-…stliche Karibik.
+Östliche Karibik.
+
 (Copy:)
-7-tŠgige Kreuzfahrt-Rundreisen von der SŸdspitze Floridas oder Puerto Rico.
+7-tägige Kreuzfahrt-Rundreisen von der Südspitze Floridas oder Puerto Rico.
+
 (Subline:)
 Westliche Karibik.
+
 (Copy:)
-7-tŠgige Kreuzfahrten von Florida, Louisiana und Texas.
+7-tägige Kreuzfahrten von Florida, Louisiana und Texas.
+
 (Subline:)
-SŸdliche Karibik.
+Südliche Karibik.
+
 (Copy:)
-7- bis 14-tŠgige Kreuzfahrten von Puerto Rico, Barbados oder St. Martin.
+7- bis 14-tägige Kreuzfahrten von Puerto Rico, Barbados oder St. Martin.
 
-
-
-02. Wo kann ich eine Kreuzfahrt machen, ff?
 (Subline:)
 Alaska.
+
 (Copy:)
-7-tŠgige Kreuzfahrten von San Francisco, Seattle oder Vancouver.
+7-tägige Kreuzfahrten von San Francisco, Seattle oder Vancouver.
+
 (Subline:)
-…stliches Mittelmeer.
+Östliches Mittelmeer.
+
 (Copy:)
-7- bis 14-tŠgige Kreuzfahrten von Venedig, Istanbul, oder PirŠus (Athen) nach Kroatien, Italien, Griechenland oder in die TŸrkei.
+7- bis 14-tägige Kreuzfahrten von Venedig, Istanbul, oder Piräus (Athen) nach Kroatien, Italien, Griechenland oder in die Türkei.
+
 (Subline:)
 Westliches Mittelmeer.
+
 (Copy:)
-7- bis 14-tŠgige Kreuzfahrt-Rundfahrten von Barcelona, Civitavecchia (Rom) nach Spanien, Frankreich, Monte Carlo und Italien.
+7- bis 14-tägige Kreuzfahrt-Rundfahrten von Barcelona, Civitavecchia (Rom) nach Spanien, Frankreich, Monte Carlo und Italien.
+
 (Subline:)
 Ostsee.
+
 (Copy:)
-7- bis 14-tŠgige Kreuzfahrten von Kopenhagen, Amsterdam, Harwich, Dover oder Southampton (London) nach St. Petersburg, Russland und OstseehŠfen oder Norwegische Fjorde.
+7- bis 14-tägige Kreuzfahrten von Kopenhagen, Amsterdam, Harwich, Dover oder Southampton (London) nach St. Petersburg, Russland und Ostseehäfen oder Norwegische Fjorde.
+
 (Subline:)
 Andamanisches Meer.
+
 (Copy:)
-3- bis 7-tŠgige Kreuzfahrten von Singapur, Malaysia und Thailand.
+3- bis 7-tägige Kreuzfahrten von Singapur, Malaysia und Thailand.
 
-
-
-02. Wo kann ich eine Kreuzfahrt machen, ff?
 (Subline:)
 Golf von Thailand.
+
 (Copy:)
-10- bis 14-tŠgige Kreuzfahrten von Hong-Kong oder Singapur nach Thailand und Vietnam.
+10- bis 14-tägige Kreuzfahrten von Hong-Kong oder Singapur nach Thailand und Vietnam.
+
 (Subline:)
-SŸdchinesisches Meer.
+Südchinesisches Meer.
+
 (Copy:)
 10- bis 14-tŠgige Kreuzfahrten von Singapur oder Hong-Kong nach Vietnam und Thailand.
 
 
 
-03. Wann ist die beste Zeit fŸr eine Kreuzfahrt?
+03. Wann ist die beste Zeit für eine Kreuzfahrt?
+
 (Grafik: Ein Kreis mit den 12 Monaten und vier Jahreszeiten.)
 (Headline:)
 Wann ist die beste Zeit fŸr eine Kreuzfahrt?
