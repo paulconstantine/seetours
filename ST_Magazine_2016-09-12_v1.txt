@@ -1,1 +1,438 @@
-"Das seetours Magazin!"Ein Magazin mit Cruise Content für seetours. Hamburg, 20.09.2016.Revisionen.Vers. 12-09-2016: created initial document, PA.Vers. 20-09-2016: 1st draft done, PA.Die Aufgabe.Für ein seetours Magazin Content sammeln und strukturieren.Content (Cruise 101).01. Welche Cruise Line passt zu mir?02. Wo kann ich eine Kreuzfahrt machen?03. Wann ist die beste Zeit für eine Kreuzfahrt?04. Cruisen Sie lieber leger oder formell?05. Typische Fragen über Kreuzfahrten.06. Kabinen, die Sie besser nicht buchen.07. Ich packe meinen Koffer ... für die Karibik.08. So cruisen Sie günstiger.09. Seekrankheit vermeiden: so geht's.10. Was auf einer Kreuzfahrt echt nervt.01. Welche Cruise Line passt zu mir?(Headline)Welche Cruise Line passt zu mir?(Lead-in copy:)Cruise Lines sind genau so individuell wie Menschen. Sie können mit Sicherheit eine finden, die ganz genau zu Ihnen passt. Mit ein paar simplen Abgaben können wir Ihnen dabei helfen, die perfekte Kreuzfahrtgesellschaft für Sie zu finden. Probieren Sie es aus.(Radiobuttons/Slider:)- Ich reise alleine- Ich reise mit Partner- Ich reise mit Familie(Radiobuttons/Slider:)- Ich bevorzuge Mega-Schiffe- Ich bevorzuge mittlere Schiffe- Ich mag es klein aber fein - Ist mir egal(Radiobuttons/Slider:)- Mein Budget ist $$$- Mein Budget ist $$- Mein Budget ist $(Checkboxen:)- Ich will feiern- Ich will entspannen- Ich will lernen- Ich brauche Ruhe(Button: Ergebnis anzeigen.)02. Wo kann ich eine Kreuzfahrt machen?(Grafik: Weltkarte mit Kreuzfahrt-Regionen.)(Headline:)Wo kann ich eine Kreuzfahrt machen?(Lead-in copy:)Eine Kreuzfahrt können Sie auf allen Meeren der Welt machen. Die beliebtesten Regionen für Kreuzfahrten finden Sie in der folgenden Liste. Vergessen Sie nicht, dass auf der Südhalbkugel im Juni Winter und zu Weihnachten Hochsommer ist, falls Sie unserem Winter entfliehen möchten. (Liste sortierbar nach Beliebtheit, Preis. Anklicken lädt Angebote oder in eine Content-Seite über die ausgewählte Region.) (Subline:)Östliche Karibik.(Copy:)7-tägige Kreuzfahrt-Rundreisen von der Südspitze Floridas oder Puerto Rico.(Subline:)Westliche Karibik.(Copy:)7-tägige Kreuzfahrten von Florida, Louisiana und Texas.(Subline:)Südliche Karibik.(Copy:)7- bis 14-tägige Kreuzfahrten von Puerto Rico, Barbados oder St. Martin.02. Wo kann ich eine Kreuzfahrt machen, ff?(Subline:)Alaska.(Copy:)7-tägige Kreuzfahrten von San Francisco, Seattle oder Vancouver.(Subline:)Östliches Mittelmeer.(Copy:)7- bis 14-tägige Kreuzfahrten von Venedig, Istanbul, oder Piräus (Athen) nach Kroatien, Italien, Griechenland oder in die Türkei.(Subline:)Westliches Mittelmeer.(Copy:)7- bis 14-tägige Kreuzfahrt-Rundfahrten von Barcelona, Civitavecchia (Rom) nach Spanien, Frankreich, Monte Carlo und Italien.(Subline:)Ostsee.(Copy:)7- bis 14-tägige Kreuzfahrten von Kopenhagen, Amsterdam, Harwich, Dover oder Southampton (London) nach St. Petersburg, Russland und Ostseehäfen oder Norwegische Fjorde.(Subline:)Andamanisches Meer.(Copy:)3- bis 7-tägige Kreuzfahrten von Singapur, Malaysia und Thailand.02. Wo kann ich eine Kreuzfahrt machen, ff?(Subline:)Golf von Thailand.(Copy:)10- bis 14-tägige Kreuzfahrten von Hong-Kong oder Singapur nach Thailand und Vietnam.(Subline:)Südchinesisches Meer.(Copy:)10- bis 14-tägige Kreuzfahrten von Singapur oder Hong-Kong nach Vietnam und Thailand.03. Wann ist die beste Zeit für eine Kreuzfahrt?(Grafik: Ein Kreis mit den 12 Monaten und vier Jahreszeiten.)(Headline:)Wann ist die beste Zeit für eine Kreuzfahrt?(Lead-in copy:)So etwas wie den perfekten Zeitpunkt für eine Kreuzfahrt gibt es nicht. Kreuzfahrten finden das ganze Jahr hindurch statt. Wann die ideale Zeit für eine jeweilige Kreuzfahrt ist, hängt von vielen individuellen Faktoren ab - und natürlich vom Wetter der Region. (Subline:)Bermuda(Copy:)Eine Kreuzfahrt in den Bermudas sollten Sie am besten zur Festival Saison in der Zeit vom Dezember bis Ende Mai machen. Die attraktivsten Preise werden im März, April und November angeboten.(Subline:)Karibik(Copy:)Die Karibik ist perfekt im Winter. Die günstigsten Preise für eine Kreuzfahrt erzielen Sie in den Monaten Januar, Mai und September.(Subline:)Kanada & Neu England(Copy:)Erleben Sie von Mitte September bis Mitte Oktober den Indian Summer an der nordamerikanischen Ostküste. Zwischen Oktober und Mitte Dezember können Sie mit Glück besonders günstig buchen.03. Wann ist die beste Zeit für eine Kreuzfahrt, ff?(Subline:)Alaska(Copy:)Mitte bis Ende Juli ist in Alaska die Lachssaison – eine Zeit in der die Bären am aktivsten sind. Falls Sie sich eher für Wale interessieren, sollten Sie eine Kreuzfahrt in Alaska im August unternehmen. Die günstigsten Ticketpreise gibt es von Mitte Mai bis zum frühen Juni und vom späten August bis Mitte September. Allerdings ist es dann etwas kälter und regnerischer.(Subline:)Hawaii(Copy:)Am besten gehen Sie zwischen April und Oktober auf große Fahrt. Die günstigsten Tickets gibt es von Oktober bis Dezember.(Subline:)Mexikanische Riviera(Copy:)Ein schönes Kreuzfahrtgebiet im Winter wenn es zuhause in Europa kalt ist. Im September und Januar sind die Ticketpreise besonders attraktiv.(Subline:)Panama Kanal(Copy:)Zwischen Dezember bis Ende Februar ist das Wetter am besten, Geschäfte sind länger geöffnet und es gibt viele Straßenfeste. Die Preise sind im April, September und frühen Januar erschwinglicher und einige Cruise Lines haben im Mai und September mit Trans-Cruises ganz besonders gute Angebote im Programm.03. Wann ist die beste Zeit für eine Kreuzfahrt, ff?(Subline:)Süd Amerika(Copy:)Genießen Sie vom Dezember bis Januar traumhafte Temperaturen auf der Südhalbkugel. Die günstigsten Buchungen machen Sie im November und von April bis Anfang Mai.(Subline:)Mittelmeer(Copy:)Im Mittelmeer kreuzen Sie am besten im frühen Herbst wenn das Wetter immer noch warm ist und die Schulferien bereits zu Ende sind. Besonders günstig fahren Sie, wenn Sie zwischen Oktober und Februar außerhalb der Schulferien buchen.(Subline:)Nord-Europa(Copy:)Falls Sie lieber auf nicht so vollen Schiffen fahren, sollten im frühen Mai oder späten August auf Kreuzfahrt gehen. Da die Saison nicht sehr lang ist, gibt es kaum Angebote. Buchen Sie am besten die erste oder letzte Kreuzfahrt der Saison um günstig mitzukommen.(Subline:)Australien & Neuseeland(Copy:)Neujahr ist der Höhepunkt und der absolute Hochsommer in Australien. Auch eine Kreuzfahrt nach Neuseeland im Dezember und im Januar ist mit Sicherheit sehr sonnig. Preiswerte Tickets gibt es vom November bis Mitte März außerhalb der Zeit der Schulferien. 04. Cruisen Sie lieber leger oder formell?(Grafik: Eine Skala. Auf der einen Seite ein Smoking, auf der anderen Seite Shorts mit T-Shirt und Flip-Flops.)(Headline:)Cruisen Sie lieber leger oder formell?(Lead-in copy:)Sehen und gesehen werden oder einfach nur leger entspannen? Je nach Einstellung gibt es für jeden die passende Kreuzfahrt. Falls Sie keine Seekiste mit formeller Abendgarderobe mitschleppen wollen, entscheiden Sie sich für eine legere Cruise Linie.(Leger) <--1-----2---------------------------3—> (Formell)1 = AIDA Cruises2 = Costa Kreuzfahrten3 = Cunard Linie(Anklicken einer Cruise Line lädt die jeweiligen Angebote.) 05. Typische Kreuzfahrt-Fragen.(Headline:)Was Sie schon immer über Kreuzfahrten wissen wollen.(Lead-in copy:)Haben Sie noch nie eine Kreuzfahrt gemacht? Dann haben Sie sicherlich Fragen über den Urlaub auf See: Ist das Essen an Bord okay? Bekommt man in den engen, kleinen Kabinen Platzangst? Wird es nach kurzer Zeit auf dem Schiff nicht langweilig?Hier sind die Antworten auf die häufigsten Fragen zum Thema Kreuzfahren.(Subline:)Was ist bei Kreuzfahrten alles inklusive?(Copy:)Das ist bei jeder Kreuzfahrtlinie anders. Spezialitäten-Restaurants, Unterhaltungs- und Wellnessangebote, Internet und alkoholische und alkoholfreie Erfrischungsgetränke kosten meist extra. So gesehen ist bei Kreuzfahrtgesellschaften relativ wenig inklusive.Manche Gesellschaften bieten weniger, manche mehr Leistungen an. Bei AIDA Cruises zum Beispiel sind Bier und Wein in den Buffet-Restaurants zu den Hauptmalzeiten inklusive, bei anderen nicht. Also, immer vorm Buchen informieren, was drinnen ist.(Subline:)Was taugt das Essen Bord?(Copy:)Hier gilt das gleiche wie an Land: Sie bekommen die Qualität, die Sie bereit sind, zu bezahlen. Erwarten Sie nicht, dass Sie die heiße Theke auf einer preiswerten Kreuzfahrt umhaut. Auch "teurer-gleich-besser" funktioniert nicht immer. Am besten Sie lesen Kundenbeurteilungen, um sich ein genaues Bild zu machen.05. Typische Kreuzfahrt-Fragen, ff.(Subline:)Bekomme ich an Bord Platzangst?(Copy:)Sie müssen schon auf einem extrem kleinen Schiff unterwegs sein, um Platzangst zu bekommen. Moderne Kreuzfahrtschiffe sind meist so groß, dass Sie bald vergessen, auf einem Schiff zu sein. Sollten Sie besorgt sein, buchen Sie eine Außen- oder Balkonkabine.(Subline:)Wird es an Bord sehr voll sein?(Copy:)Wahrscheinlich nicht. Das hängt allerdings von der Saison ab. Wenn Sie zur südeuropäischen Schulferienzeit eine Mittelmeer-Kreuzfahrt buchen, kann es schon mal voller und lauter werden. Das Verhältnis von Schiffsfläche zur maximalen Passagieranzahl ist ein Indikator, wie eng oder geräumig es auf dem Schiff ist.(Subline:)Sind Kreuzfahrten nicht etwas kitschig?(Copy:)Ansichtssache. Jede Kreuzfahrt hat eine Persönlichkeit. Schlager oder Jazz, Poolparty oder Wein-Verkostung, Theater oder Diskothek, Bibliothek oder Casino. Formell oder leger, Sie entscheiden. Es gibt für jeden Geschmack genau die passende Kreuzfahrt.(Subline:)Sind die Aufenthalte lang genug, um alles zu sehen?(Copy:)Vielleicht können Sie in einem kleinen Hafen bei einem langen Landausflug alles erleben. Aber darum geht es gar nicht. Suchen Sie sich die Ziele aus, die Sie wirklich interessieren. Sehen Sie es einfach als Kennenlernen. Was Ihnen gefällt, besuchen Sie bei Ihrer nächsten Reise intensiver.05. Typische Kreuzfahrt-Fragen, ff.(Subline:)Was ist, wenn ich seekrank werde?(Copy:)Bei ruhiger See und moderatem Wetter dürften Sie auf modernen Kreuzfahrtschiffen gar nicht merken, dass Sie auf einem Schiff sind. Falls Sie anfällig für Seekrankheit sind, sollten Sie eine Kabine in Schiffsmitte buchen und mit Medikamenten vorsorgen.(Subline:)Wird mein Pass bei einer Kreuzfahrt gestempelt?(Copy:)Wenn Sie fliegen müssen, um Ihr Schiff zu erreichen – insbesondere außerhalb der EU - kann es schon vorkommen, dass Ihr Pass am Flughafen bei Ein- und Ausreise gestempelt wird. Aber auf einem Kreuzfahrtschiff passiert das eher nicht.(Subline:)Wird es auf dem Schiff nicht irgendwann langweilig?(Copy:)Das ist kaum vorstellbar. Vor allem, wenn Sie eine Kreuzfahrt gefunden haben, die Ihnen gut gefällt. Es gibt für jeden Anspruch die passende Kreuzfahrt, darum ist es so wichtig vorm Buchen gründlich zu recherchieren damit Sie genau das Angebot finden, das genau auf Sie zugeschnitten ist.06. Kabinen, die Sie besser nicht buchen.(Headline:)Die ideale Kabine liegt nie neben dem Maschinenraum!(Lead-in copy:)Stehen Sie beim kleinsten Geräusch senkrecht im Bett? Haben Sie einen sehr leichten Schlaf? In diesem Fall sollten Sie bei der Auswahl Ihrer Kabine sorgfältig vorgehen. Vor allem die Lage Ihrer Kabine ist entscheidend, das gilt ausnahmslos für alle Schiffe.Folgende Kabinen-Lagen sollten Sie unbedingt meiden.(Subline:)In der Nähe von Maschinenräumen.(Copy:)Es ist kaum überraschend, dass niemand eine Kabine in der Nähe des Maschinenraums bucht. Es gibt aber nicht nur einen Geräteraum in Schiffen. Eine Kabine am Bug kann laut sein, wenn sie in der Nähe der Ankerketten ist. Informieren Sie sich besser vorm Buchen bei Ihrem Reiseanbieter über die Lage möglicher Geräteräume.(Subline:)Neben den Fahrstühlen und Treppenhäusern.(Copy:)Fahrstühle sind schon eine prima Erfindung – außer vielleicht, wenn diese die ganz Nacht lang an Ihrem Bett vorbeifahren. Auch Treppenhäuser können sehr gut Geräusche übertragen. Das mag tagsüber nicht auffallen, Nachts aber schon.06. Kabinen, die Sie besser nicht buchen, ff.(Subline:)Über oder unter einer Diskothek oder Bar.(Copy:)Alle Kreuzfahrten bieten ein exzellentes Nachtleben an Bord an. Das ist prima solange Sie aktiv daran teilnehmen. Aber unpraktisch falls Sie zeitig schlafen wollen und unter einer Diskothek schlafen. Besser, Sie vermeiden eine Kabine in solch einer Lage.(Subline:)Direkt neben den Mannschaftsquartieren.(Copy:)Gehen Sie davon aus, das sich keine Mannschaftsmitglieder laut vor Ihrer Kabine unterhalten werden. Gehen Sie ebenfalls davon aus, dass die Tür zu den Mannschaftsquartieren auf- und zugehen wird. Tag und Nacht von morgens bis abends.(Subline:)In der Nähe der Wäscherei.(Copy:)An Bord eines Kreuzfahrschiffs wird viel gewaschen. Rund um die Uhr, jeden Tag. Sollten Sie sehr geräuschempfindlich sein, ist eine Kabine in der Nähe von Wäschereien oder Waschsalons keine besonders gute Idee. Machen Sie sich vorm Buchen schlau.(Subline:)Direkt neben einer Eismaschine.(Copy:)Eine Eismaschine ist kein Gerät, das sich durch Geräuscharmut auszeichnet. Vor allem dann, wenn die Eiswürfel in eine Schüssel oder einen Sektkübel poltern, stehen die meisten Menschen senkrecht im Bett. Meiden Sie die Nähe zu einer solchen Maschine.06. Kabinen, die Sie besser nicht buchen, ff.(Subline:)Unter einem öffentlichen Deck.(Copy:)Niemand möchte gern frühmorgens schon Jogger, Spaziergänger oder Deckstühle, die übers Deck gezogen werden, hören. Am besten vermeiden Sie diese Art von Ruhestörung, indem Sie keine Kabine buchen, die unter einem öffentlichen Deck liegt. 07. Ich packe meinen Koffer ... für die Karibik.(Headline:)Ich packe meinen Koffer ... für die Karibik.(Lead-in copy:)Nicht sicher, was Sie einpacken sollen, und was nicht? Einige Hygieneartikel brauchen Sie in immer – ganz gleich, ob Ihre Kreuzfahrt im Mittelmeer, in der Ostsee oder in der Karibik stattfindet. Hier ist eine Liste von Dingen, die in Ihrem Koffer nicht fehlen dürfen.(Subline:)Ein gut sortierter Kulturbeutel.(Copy:)Gefüllt mit: 100 ml Probefläschchen mit Shampoo, Körperlotion, Gesichtswäsche und Makeup Entferner. Parfum/Rasierwasser, Rasierzeugs, Zahnseide, Zahnbürste und Zahnpaste.(Subline:)Artikel des täglichen Bedarfs.(Copy:)Verstauen Sie die folgenden Artikel in den Seitentaschen Ihres Koffers: Reise Fön, Kamm und Bürste und ein Deo. Wenn Sie können, lassen sie diese alltäglichen Dinge immer in Ihrem Koffer.(Subline:)Artikel speziell fürs Reisen.(Copy:)Auch diese Gegenstände sollten in einer Seitentasche Ihres Koffers einen permanenten Platz einnehmen: Komfortable Socken, Ohrstöpsel, Schlafmaske, Reisewecker, Wegwerfkamera, kleine Ferngläser, ein Notizblock und Stifte.07. Ich packe meinen Koffer ... für die Karibik, ff.(Subline:)Für die Karibik empfiehlt sich ein Badebeutel.(Copy:)Damit sind Sie fürs Pool-Deck und jeden Strandaufenthalt immer bestens vorbereitet: zwei Badeanzüge/Badehosen, Sonnenbrille, Sonnenschutz, Badeschuhe, Taucherbrille und ein Schnorchel.(Subline:)Genug Bekleidung für eine Woche.(Copy:)Die folgende Liste ist für eine Woche ausgelegt. Wenn Sie zwei Wochen unterwegs sind, verdoppeln Sie die Anzahl der Bekleidungsstücke oder waschen Sie Ihre Kleidung an Bord. 7mal Unterwäsche, 2 leichte Hosen, 3 Shorts, 7 Oberteile, eine formelle Abendgarderobe (falls notwendig), Flip-Flops, leichte Sommerschuhe und High Heels/Oxford-Schuhe.(Subline:)Mit Kind unterwegs? Packen Sie Spielzeug ein.(Copy:)Fast alle Cruise Lines haben Kindergärten mit Spielzeug an Bord. Dennoch sollten Sie für Ihr Kind einige besonders lieb gewonnene Kleinigkeiten vom eigenen Spielzeug dabei haben. Vielleicht ein schönes Buch zum Vorlesen vor Schlafen-gehen.08. So cruisen Sie günstiger.(Headline:)So cruisen Sie günstiger.(Lead-in copy:)Eine Kreuzfahrt muss kein Vermögen kosten. Es gibt auch nach der Buchung noch zahlreiche Möglichkeiten, wie Sie Ihr Budget an Bord effektiv schonen können, wenn Sie die üblichen Kreuzfahrt Kosten-Fallen elegant umschiffen. Die besten Tipps haben wir hier für Sie aufgelistet.(Subline:)Buchen Sie ein Getränkepaket.(Copy:)Fast alle Cruise Lines bieten Getränke-Pakete oder Getränke-Flatrates an. Je nach Auswahl (Softdrinks, Softdrinks + Alkohol) kosten diese zwischen US$ 5 und US$ am Tag. Aber lesen Sie das Kleingedruckte. Dort finden Sie erstaunliche Einschränkungen wie ein Limit pro Mahlzeit oder pro Tag.(Subline:)Verzichten Sie an Bord aufs Internet.(Copy:)Das Internet per WLAN ist der wohl teuerste Luxus an Bord eines Kreuzfahrtschiffs. Die Gebühren betragen zwischen 50 Cents und einem Dollar pro Minute. Besser Sie beschränken das Surfen auf Landausflüge wo Sie Ihr Mobiltelefon oder ein kostenfreies, öffentliches WLAN nutzen können.08. So cruisen Sie günstiger, ff.(Subline:)Meiden Sie den Bord-Fotografen.(Copy:)Auf vielen Schiffen begegnen Ihnen früher oder später ein Bord-Fotografen, der Ihnen anbietet, Sie zu fotografieren. Für US$ 20 bis US$ 30 pro Abzug. Besser, Sie machen das was Sie immer machen: schöne Fotos und Selfies mit Ihrem Smartphone. Oder Sie bitten andere Gäste, Sie zu fotografieren - ein guter Gesprächsöffner.(Subline:)Besuchen Sie den Spa zu Off-Zeiten.(Copy:)Meist kostet der Besuch eines Spa oder einer Wellnessoase auf einem Kreuzfahrtschiff ähnlich viel der einer Luxusoase an Land. Einzige Ausnahme: Ausflugs- oder Hafentage, dann können die Kosten schon 30 Prozent sinken. Das ist dann Wellness für Sie und Ihre Brieftasche.(Subline:)Werden Sie Ihr eigener Fitness-Coach.(Copy:)Viele Pilates- und Yoga-Kurse kosten bis zu US$ pro Teilnehmer. Es gibt auf Kreuzfahrtschiffen auch viele andere Möglichkeiten fit zu bleiben. Laufen Sie an Deck. Oder nehmen Sie sich Yoga-Kursvideos auf Ihrem Laptop mit und trainieren Sie in Ihrer Kabine.(Subline:)Planen Sie Ihren eigenen Landausflug.(Copy:)Landgänge und Ausflüge können sehr teuer sein. Dabei haben Sie vor jeder Kreuzfahrt Gelegenheit, sich mit Reiseführern einzudecken. Werden Sie einfach Ihr eigener Tour-Guide und erleben Sie alles in Ihrem eigenen Tempo. Solange Sie wieder rechtzeitig an Bord sind.08. So cruisen Sie günstiger, ff.(Subline:)Waschen Sie Ihre Wäsche selber.(Copy:)Cruise Lines machen Ihnen gern die Wäsche, für US$ 2,50 pro Stück Wäsche. Etwas preiswerter ist es, eines der Waschcenter zu nutzen. US$ 5 kostet eine Waschladung. Oder Sie bringen einfach genug Wäsche zum Wechseln mit. Zur Not gibt es ja immer noch die gute alte Handwäsche im Bad, falls Ihnen ein kleines Malheur passiert.09. Seekrankheit vermeiden: so geht's.(Headline:)Seekrankheit vermeiden: so geht's.(Lead-in copy:)Ganz gleich, ob Sie zum ersten Mal eine Kreuzfahrt machen oder regelmäßig auf See sind: seekrank zu werden, kann Ihren Urlaub verhageln. Es ist wichtig zu wissen, was Sie tun und einpacken können, um bei rauer See nicht krank in der Koje zu landen.(Subline:)Planen Sie Ihre Reise sorgfältig.(Copy:)Es gibt immer Zeiten und Regionen, die Sie für eine Kreuzfahrt meiden sollten: Atlantik-Überquerungen, das Mittelmeer im Winter, die Karibik zur Hurrikan-Saison. Natürlich kann das Meer auch in sicheren Gebieten und Zeiten mal wild sein. Aber mit etwas Planung können Sie das Schlimmste verhindern.(Subline:)Buchen Sie die richtige Kabine.(Copy:)Kabinen am Bug, am Heck oder auf den oberen Decks spüren die Bewegungen des Schiffs am extremsten. Tiefer liegende Kabinen in der Schiffsmitte sind am verträglichsten falls Sie anfällig für Seekrankheit sind, aber auch immer am schnellsten ausgebucht. (Subline:)Wählen Sie ein Schiff mit Stabilisatoren.(Copy:)Große, moderne Kreuzfahrschiffe haben auf der Backbord- und Steuerbord-Seite Stabilisatoren am Unterwasserrumpf. Diese Flügel sorgen dafür, dass die Lage des Schiffs stabil bleibt. Je neuer das Schiff, desto ruhiger liegt es auch bei rauer See im Wasser.09. Seekrankheit vermeiden: so geht's, ff.(Subline:)Packen Sie Medizin ein.(Copy:)Rezeptfreie Akupressur Armbänder und Antihistamins wie Dramamine® helfen schon ganz gut gegen Seekrankheit. Transderm Sco?p® - ein rezeptpflichtiges Pflaster - das Sie sich hinters Ohr kleben, macht weniger schläfrig als die rezeptfreien Mittel und wirkt zudem deutlich besser.(Subline:)Handeln Sie schnell.(Copy:)Achten Sie auf sich. Ein harmloses Gähnen kann bereits ein Symptom einer einsetzenden Seekrankheit sein. Spätestens wenn der Wind stärker und das Meer rauer werden, sollten Sie vorsorglich Ihre Mittel gegen Seekrankheit einnehmen und einen ruhigeren Bereich im Schiff aussuchen.10. Was auf einer Kreuzfahrt echt nervt.(Headline:)Was auf einer Kreuzfahrt echt nervt.(Lead-in copy:)Es gibt eine Menge Dinge, die Kreuzfahrten zur schönsten Art, den Urlaub zu verbringen, machen. Sie reisen – im Mittelmeer zum Beispiel – von Spanien über Frankreich nach Italien und sehen die schönen Küsten. Ohne Auto, Bahn und Flieger. Ohne Koffer ein- und auszupacken, ohne Stress. Dennoch gibt es selbst bei Kreuzfahrten noch so manches was wirklich nervt.(Subline:)Auslaufen wenn es am schönsten wird.(Copy:)Stellen Sie sich vor, Sie sind in einer echten Partystadt wie Barcelona und Ihr Schiff läuft gegen 17.00 Uhr aus. Trauern Sie nicht um die verlorene Partynacht, suchen Sie sich nächstes Mal einfach eine Kreuzfahrtlinie und einen Reiseplan – z.B. ADIA - bei dem das Schiff in solchen Städten Übernacht bleibt. (Subline:)Aufschlag zahlen, weil Sie alleine reisen.(Copy:)Bei vielen Kreuzfahrtlinien bezahlen Sie einen fürstlichen Aufschlag (bis zu 70%), wenn Sie alleine reisen. Dabei ist es doch schon hart genug zwischen all den Pärchen alleine zu essen. Aber: nicht alle Cruise Lines behandeln Singles so, vergleichen Sie.10. Was auf einer Kreuzfahrt echt nervt, ff.(Subline:)Offline sein wie vor den Neunzigern.(Copy:)Mag sein, dass mancher es genießt, endlich keine blöden E-Mails, WhatsApps oder ähnlichen Elektrosmog zu erhalten. Andere wollen online sein. Nur auf den meisten Schiffen kostet das mehr als in den 90ern bei der Deutschen Post und es ist so langsam, dass Sie es auch gleich lassen können. Auch hier gilt, vergleichen Sie. Mit Costa surfen Sie für nur US$ 13 immerhin eine Stunde lang.(Subline:)Kleider machen Leute, aber auch im Urlaub?(Copy:)Für alle, die es lieber leger mögen ein Grauen: die formellen Dinner an Bord. Da hat man schon Mal Urlaub und muss die halbe Garderobe mitschleppen, um am Abend mit dem Kapitän zu dinieren. Oder Sie suchen sich eine Cruise Line, bei der es so leger zugeht wie Sie es sich wünschen. Zum Beispiel AIDA.(Subline:)Hohe Ausflugskosten, wenn ein paar Tipps schon reichen.(Copy:)Es ist verständlich, dass Cruise Lines lieber komplette Ausflüge verkaufen, als Tipps zu geben und sich das Ausflugs-Geschäft entgehen zu lassen. Nicht jeder will eine Gruppentour mitmachen, sondern die Reiseziele im eigenen Tempo erleben. Am besten Sie besorgen sich vor der Reise eigene Fremdenführer und bleiben unabhängig.10. Was auf einer Kreuzfahrt echt nervt, ff.(Subline:)Eine Karibik-Kreuzfahrt ohne Strandzeit.(Copy:)Es ist leicht auf einer Kreuzfahrt in der Karibik den Strand zu vergessen. Tempel, Einkaufsstopps und Ausflüge nehmen viel Land-Zeit ein. Besser Sie suchen sich vorab die Häfen aus, die einen tollen Strand haben und verzichten zugunsten eines schönen Tages am Strand aufs offizielle Programm. Die Ruinen werden auch auf der nächsten Tour noch da sein.Ich freue mich auf Ihr Feedback.4/29(c) 2016 by Paul Apostoloupaulapostolou.
+01. Welche Cruise Line passt zu mir?
+02. Wo kann ich eine Kreuzfahrt machen?
+03. Wann ist die beste Zeit f√ºr eine Kreuzfahrt?
+04. Cruisen Sie lieber leger oder formell?
+05. Typische Fragen √ºber Kreuzfahrten.
+06. Kabinen, die Sie besser nicht buchen.
+07. Ich packe meinen Koffer ... f√ºr die Karibik.
+08. So cruisen Sie g√ºnstiger.
+09. Seekrankheit vermeiden: so geht's.
+10. Was auf einer Kreuzfahrt echt nervt.
+
+
+
+01. Welche Cruise Line passt zu mir?
+
+(Headline)
+Welche Cruise Line passt zu mir?
+
+(Lead-in copy:)
+Cruise Lines sind genau so individuell wie Menschen. Sie k≈°nnen mit Sicherheit eine finden, die ganz genau zu Ihnen passt. Mit ein paar simplen Abgaben k≈°nnen wir Ihnen dabei helfen, die perfekte Kreuzfahrtgesellschaft f≈∏r Sie zu finden. Probieren Sie es aus.
+
+(Radiobuttons/Slider:)
+- Ich reise alleine
+- Ich reise mit Partner
+- Ich reise mit Familie
+
+(Radiobuttons/Slider:)
+- Ich bevorzuge Mega-Schiffe
+- Ich bevorzuge mittlere Schiffe
+- Ich mag es klein aber fein 
+- Ist mir egal
+
+(Radiobuttons/Slider:)
+- Mein Budget ist $$$
+- Mein Budget ist $$
+- Mein Budget ist $
+
+(Checkboxen:)
+- Ich will feiern
+- Ich will entspannen
+- Ich will lernen
+- Ich brauche Ruhe
+
+(Button: Ergebnis anzeigen.)
+
+
+
+02. Wo kann ich eine Kreuzfahrt machen?
+
+(Grafik: Weltkarte mit Kreuzfahrt-Regionen.)
+
+(Headline:)
+Wo kann ich eine Kreuzfahrt machen?
+
+(Lead-in copy:)
+Eine Kreuzfahrt k≈°nnen Sie auf allen Meeren der Welt machen. Die beliebtesten Regionen f≈∏r Kreuzfahrten finden Sie in der folgenden Liste. Vergessen Sie nicht, dass auf der S≈∏dhalbkugel im Juni Winter und zu Weihnachten Hochsommer ist, falls Sie unserem Winter entfliehen m≈°chten. 
+
+(Liste sortierbar nach Beliebtheit, Preis. Anklicken l≈†dt Angebote oder in eine Content-Seite ≈∏ber die ausgew≈†hlte Region.) 
+(Subline:)
+‚Ä¶stliche Karibik.
+(Copy:)
+7-t≈†gige Kreuzfahrt-Rundreisen von der S≈∏dspitze Floridas oder Puerto Rico.
+(Subline:)
+Westliche Karibik.
+(Copy:)
+7-t≈†gige Kreuzfahrten von Florida, Louisiana und Texas.
+(Subline:)
+S≈∏dliche Karibik.
+(Copy:)
+7- bis 14-t≈†gige Kreuzfahrten von Puerto Rico, Barbados oder St. Martin.
+
+
+
+02. Wo kann ich eine Kreuzfahrt machen, ff?
+(Subline:)
+Alaska.
+(Copy:)
+7-t≈†gige Kreuzfahrten von San Francisco, Seattle oder Vancouver.
+(Subline:)
+‚Ä¶stliches Mittelmeer.
+(Copy:)
+7- bis 14-t≈†gige Kreuzfahrten von Venedig, Istanbul, oder Pir≈†us (Athen) nach Kroatien, Italien, Griechenland oder in die T≈∏rkei.
+(Subline:)
+Westliches Mittelmeer.
+(Copy:)
+7- bis 14-t≈†gige Kreuzfahrt-Rundfahrten von Barcelona, Civitavecchia (Rom) nach Spanien, Frankreich, Monte Carlo und Italien.
+(Subline:)
+Ostsee.
+(Copy:)
+7- bis 14-t≈†gige Kreuzfahrten von Kopenhagen, Amsterdam, Harwich, Dover oder Southampton (London) nach St. Petersburg, Russland und Ostseeh≈†fen oder Norwegische Fjorde.
+(Subline:)
+Andamanisches Meer.
+(Copy:)
+3- bis 7-t≈†gige Kreuzfahrten von Singapur, Malaysia und Thailand.
+
+
+
+02. Wo kann ich eine Kreuzfahrt machen, ff?
+(Subline:)
+Golf von Thailand.
+(Copy:)
+10- bis 14-t≈†gige Kreuzfahrten von Hong-Kong oder Singapur nach Thailand und Vietnam.
+(Subline:)
+S≈∏dchinesisches Meer.
+(Copy:)
+10- bis 14-t≈†gige Kreuzfahrten von Singapur oder Hong-Kong nach Vietnam und Thailand.
+
+
+
+03. Wann ist die beste Zeit f≈∏r eine Kreuzfahrt?
+(Grafik: Ein Kreis mit den 12 Monaten und vier Jahreszeiten.)
+(Headline:)
+Wann ist die beste Zeit f≈∏r eine Kreuzfahrt?
+(Lead-in copy:)
+So etwas wie den perfekten Zeitpunkt f≈∏r eine Kreuzfahrt gibt es nicht. Kreuzfahrten finden das ganze Jahr hindurch statt. Wann die ideale Zeit f≈∏r eine jeweilige Kreuzfahrt ist, h≈†ngt von vielen individuellen Faktoren ab - und nat≈∏rlich vom Wetter der Region. 
+(Subline:)
+Bermuda
+(Copy:)
+Eine Kreuzfahrt in den Bermudas sollten Sie am besten zur Festival Saison in der Zeit vom Dezember bis Ende Mai machen. Die attraktivsten Preise werden im M≈†rz, April und November angeboten.
+(Subline:)
+Karibik
+(Copy:)
+Die Karibik ist perfekt im Winter. Die g≈∏nstigsten Preise f≈∏r eine Kreuzfahrt erzielen Sie in den Monaten Januar, Mai und September.
+(Subline:)
+Kanada & Neu England
+(Copy:)
+Erleben Sie von Mitte September bis Mitte Oktober den Indian Summer an der nordamerikanischen Ostk≈∏ste. Zwischen Oktober und Mitte Dezember k≈°nnen Sie mit Gl≈∏ck besonders g≈∏nstig buchen.
+
+
+
+03. Wann ist die beste Zeit f≈∏r eine Kreuzfahrt, ff?
+(Subline:)
+Alaska
+(Copy:)
+Mitte bis Ende Juli ist in Alaska die Lachssaison √ê eine Zeit in der die B≈†ren am aktivsten sind. Falls Sie sich eher f≈∏r Wale interessieren, sollten Sie eine Kreuzfahrt in Alaska im August unternehmen. Die g≈∏nstigsten Ticketpreise gibt es von Mitte Mai bis zum fr≈∏hen Juni und vom sp≈†ten August bis Mitte September. Allerdings ist es dann etwas k≈†lter und regnerischer.
+(Subline:)
+Hawaii
+(Copy:)
+Am besten gehen Sie zwischen April und Oktober auf gro¬ße Fahrt. Die g≈∏nstigsten Tickets gibt es von Oktober bis Dezember.
+(Subline:)
+Mexikanische Riviera
+(Copy:)
+Ein sch≈°nes Kreuzfahrtgebiet im Winter wenn es zuhause in Europa kalt ist. Im September und Januar sind die Ticketpreise besonders attraktiv.
+(Subline:)
+Panama Kanal
+(Copy:)
+Zwischen Dezember bis Ende Februar ist das Wetter am besten, Gesch≈†fte sind l≈†nger ge≈°ffnet und es gibt viele Stra¬ßenfeste. Die Preise sind im April, September und fr≈∏hen Januar erschwinglicher und einige Cruise Lines haben im Mai und September mit Trans-Cruises ganz besonders gute Angebote im Programm.
+
+
+
+03. Wann ist die beste Zeit f≈∏r eine Kreuzfahrt, ff?
+(Subline:)
+S≈∏d Amerika
+(Copy:)
+Genie¬ßen Sie vom Dezember bis Januar traumhafte Temperaturen auf der S≈∏dhalbkugel. Die g≈∏nstigsten Buchungen machen Sie im November und von April bis Anfang Mai.
+(Subline:)
+Mittelmeer
+(Copy:)
+Im Mittelmeer kreuzen Sie am besten im fr≈∏hen Herbst wenn das Wetter immer noch warm ist und die Schulferien bereits zu Ende sind. Besonders g≈∏nstig fahren Sie, wenn Sie zwischen Oktober und Februar au¬ßerhalb der Schulferien buchen.
+(Subline:)
+Nord-Europa
+(Copy:)
+Falls Sie lieber auf nicht so vollen Schiffen fahren, sollten im fr≈∏hen Mai oder sp≈†ten August auf Kreuzfahrt gehen. Da die Saison nicht sehr lang ist, gibt es kaum Angebote. Buchen Sie am besten die erste oder letzte Kreuzfahrt der Saison um g≈∏nstig mitzukommen.
+(Subline:)
+Australien & Neuseeland
+(Copy:)
+Neujahr ist der H≈°hepunkt und der absolute Hochsommer in Australien. Auch eine Kreuzfahrt nach Neuseeland im Dezember und im Januar ist mit Sicherheit sehr sonnig. Preiswerte Tickets gibt es vom November bis Mitte M≈†rz au¬ßerhalb der Zeit der Schulferien. 
+
+
+
+04. Cruisen Sie lieber leger oder formell?
+(Grafik: Eine Skala. Auf der einen Seite ein Smoking, auf der anderen Seite Shorts mit T-Shirt und Flip-Flops.)
+(Headline:)
+Cruisen Sie lieber leger oder formell?
+(Lead-in copy:)
+Sehen und gesehen werden oder einfach nur leger entspannen? Je nach Einstellung gibt es f≈∏r jeden die passende Kreuzfahrt. Falls Sie keine Seekiste mit formeller Abendgarderobe mitschleppen wollen, entscheiden Sie sich f≈∏r eine legere Cruise Linie.
+
+(Leger) <--1-----2---------------------------3√ë> (Formell)
+1 = AIDA Cruises
+2 = Costa Kreuzfahrten
+3 = Cunard Linie
+(Anklicken einer Cruise Line l≈†dt die jeweiligen Angebote.) 
+
+
+
+05. Typische Kreuzfahrt-Fragen.
+(Headline:)
+Was Sie schon immer ≈∏ber Kreuzfahrten wissen wollen.
+(Lead-in copy:)
+Haben Sie noch nie eine Kreuzfahrt gemacht? Dann haben Sie sicherlich Fragen ≈∏ber den Urlaub auf See: Ist das Essen an Bord okay? Bekommt man in den engen, kleinen Kabinen Platzangst? Wird es nach kurzer Zeit auf dem Schiff nicht langweilig?
+Hier sind die Antworten auf die h≈†ufigsten Fragen zum Thema Kreuzfahren.
+
+(Subline:)
+Was ist bei Kreuzfahrten alles inklusive?
+(Copy:)
+Das ist bei jeder Kreuzfahrtlinie anders. Spezialit≈†ten-Restaurants, Unterhaltungs- und Wellnessangebote, Internet und alkoholische und alkoholfreie Erfrischungsgetr≈†nke kosten meist extra. So gesehen ist bei Kreuzfahrtgesellschaften relativ wenig inklusive.
+Manche Gesellschaften bieten weniger, manche mehr Leistungen an. Bei AIDA Cruises zum Beispiel sind Bier und Wein in den Buffet-Restaurants zu den Hauptmalzeiten inklusive, bei anderen nicht. Also, immer vorm Buchen informieren, was drinnen ist.
+(Subline:)
+Was taugt das Essen Bord?
+(Copy:)
+Hier gilt das gleiche wie an Land: Sie bekommen die Qualit≈†t, die Sie bereit sind, zu bezahlen. Erwarten Sie nicht, dass Sie die hei¬ße Theke auf einer preiswerten Kreuzfahrt umhaut. Auch "teurer-gleich-besser" funktioniert nicht immer. Am besten Sie lesen Kundenbeurteilungen, um sich ein genaues Bild zu machen.
+
+
+
+05. Typische Kreuzfahrt-Fragen, ff.
+(Subline:)
+Bekomme ich an Bord Platzangst?
+(Copy:)
+Sie m≈∏ssen schon auf einem extrem kleinen Schiff unterwegs sein, um Platzangst zu bekommen. Moderne Kreuzfahrtschiffe sind meist so gro¬ß, dass Sie bald vergessen, auf einem Schiff zu sein. Sollten Sie besorgt sein, buchen Sie eine Au¬ßen- oder Balkonkabine.
+(Subline:)
+Wird es an Bord sehr voll sein?
+(Copy:)
+Wahrscheinlich nicht. Das h≈†ngt allerdings von der Saison ab. Wenn Sie zur s≈∏deurop≈†ischen Schulferienzeit eine Mittelmeer-Kreuzfahrt buchen, kann es schon mal voller und lauter werden. Das Verh≈†ltnis von Schiffsfl≈†che zur maximalen Passagieranzahl ist ein Indikator, wie eng oder ger≈†umig es auf dem Schiff ist.
+(Subline:)
+Sind Kreuzfahrten nicht etwas kitschig?
+(Copy:)
+Ansichtssache. Jede Kreuzfahrt hat eine Pers≈°nlichkeit. Schlager oder Jazz, Poolparty oder Wein-Verkostung, Theater oder Diskothek, Bibliothek oder Casino. Formell oder leger, Sie entscheiden. Es gibt f≈∏r jeden Geschmack genau die passende Kreuzfahrt.
+(Subline:)
+Sind die Aufenthalte lang genug, um alles zu sehen?
+(Copy:)
+Vielleicht k≈°nnen Sie in einem kleinen Hafen bei einem langen Landausflug alles erleben. Aber darum geht es gar nicht. Suchen Sie sich die Ziele aus, die Sie wirklich interessieren. Sehen Sie es einfach als Kennenlernen. Was Ihnen gef≈†llt, besuchen Sie bei Ihrer n≈†chsten Reise intensiver.
+
+
+
+05. Typische Kreuzfahrt-Fragen, ff.
+(Subline:)
+Was ist, wenn ich seekrank werde?
+(Copy:)
+Bei ruhiger See und moderatem Wetter d≈∏rften Sie auf modernen Kreuzfahrtschiffen gar nicht merken, dass Sie auf einem Schiff sind. Falls Sie anf≈†llig f≈∏r Seekrankheit sind, sollten Sie eine Kabine in Schiffsmitte buchen und mit Medikamenten vorsorgen.
+(Subline:)
+Wird mein Pass bei einer Kreuzfahrt gestempelt?
+(Copy:)
+Wenn Sie fliegen m≈∏ssen, um Ihr Schiff zu erreichen √ê insbesondere au¬ßerhalb der EU - kann es schon vorkommen, dass Ihr Pass am Flughafen bei Ein- und Ausreise gestempelt wird. Aber auf einem Kreuzfahrtschiff passiert das eher nicht.
+(Subline:)
+Wird es auf dem Schiff nicht irgendwann langweilig?
+(Copy:)
+Das ist kaum vorstellbar. Vor allem, wenn Sie eine Kreuzfahrt gefunden haben, die Ihnen gut gef≈†llt. Es gibt f≈∏r jeden Anspruch die passende Kreuzfahrt, darum ist es so wichtig vorm Buchen gr≈∏ndlich zu recherchieren damit Sie genau das Angebot finden, das genau auf Sie zugeschnitten ist.
+
+
+
+06. Kabinen, die Sie besser nicht buchen.
+(Headline:)
+Die ideale Kabine liegt nie neben dem Maschinenraum!
+(Lead-in copy:)
+Stehen Sie beim kleinsten Ger≈†usch senkrecht im Bett? Haben Sie einen sehr leichten Schlaf? In diesem Fall sollten Sie bei der Auswahl Ihrer Kabine sorgf≈†ltig vorgehen. Vor allem die Lage Ihrer Kabine ist entscheidend, das gilt ausnahmslos f≈∏r alle Schiffe.
+Folgende Kabinen-Lagen sollten Sie unbedingt meiden.
+
+(Subline:)
+In der N≈†he von Maschinenr≈†umen.
+(Copy:)
+Es ist kaum ≈∏berraschend, dass niemand eine Kabine in der N≈†he des Maschinenraums bucht. Es gibt aber nicht nur einen Ger≈†teraum in Schiffen. Eine Kabine am Bug kann laut sein, wenn sie in der N≈†he der Ankerketten ist. Informieren Sie sich besser vorm Buchen bei Ihrem Reiseanbieter ≈∏ber die Lage m≈°glicher Ger≈†ter≈†ume.
+(Subline:)
+Neben den Fahrst≈∏hlen und Treppenh≈†usern.
+(Copy:)
+Fahrst≈∏hle sind schon eine prima Erfindung √ê au¬ßer vielleicht, wenn diese die ganz Nacht lang an Ihrem Bett vorbeifahren. Auch Treppenh≈†user k≈°nnen sehr gut Ger≈†usche ≈∏bertragen. Das mag tags≈∏ber nicht auffallen, Nachts aber schon.
+
+
+
+06. Kabinen, die Sie besser nicht buchen, ff.
+(Subline:)
+‚Ä†ber oder unter einer Diskothek oder Bar.
+(Copy:)
+Alle Kreuzfahrten bieten ein exzellentes Nachtleben an Bord an. Das ist prima solange Sie aktiv daran teilnehmen. Aber unpraktisch falls Sie zeitig schlafen wollen und unter einer Diskothek schlafen. Besser, Sie vermeiden eine Kabine in solch einer Lage.
+(Subline:)
+Direkt neben den Mannschaftsquartieren.
+(Copy:)
+Gehen Sie davon aus, das sich keine Mannschaftsmitglieder laut vor Ihrer Kabine unterhalten werden. Gehen Sie ebenfalls davon aus, dass die T≈∏r zu den Mannschaftsquartieren auf- und zugehen wird. Tag und Nacht von morgens bis abends.
+(Subline:)
+In der N≈†he der W≈†scherei.
+(Copy:)
+An Bord eines Kreuzfahrschiffs wird viel gewaschen. Rund um die Uhr, jeden Tag. Sollten Sie sehr ger≈†uschempfindlich sein, ist eine Kabine in der N≈†he von W≈†schereien oder Waschsalons keine besonders gute Idee. Machen Sie sich vorm Buchen schlau.
+(Subline:)
+Direkt neben einer Eismaschine.
+(Copy:)
+Eine Eismaschine ist kein Ger≈†t, das sich durch Ger≈†uscharmut auszeichnet. Vor allem dann, wenn die Eisw≈∏rfel in eine Sch≈∏ssel oder einen Sektk≈∏bel poltern, stehen die meisten Menschen senkrecht im Bett. Meiden Sie die N≈†he zu einer solchen Maschine.
+
+
+
+06. Kabinen, die Sie besser nicht buchen, ff.
+(Subline:)
+Unter einem ≈°ffentlichen Deck.
+(Copy:)
+Niemand m≈°chte gern fr≈∏hmorgens schon Jogger, Spazierg≈†nger oder Deckst≈∏hle, die ≈∏bers Deck gezogen werden, h≈°ren. Am besten vermeiden Sie diese Art von Ruhest≈°rung, indem Sie keine Kabine buchen, die unter einem ≈°ffentlichen Deck liegt. 
+
+
+
+07. Ich packe meinen Koffer ... f≈∏r die Karibik.
+(Headline:)
+Ich packe meinen Koffer ... f≈∏r die Karibik.
+(Lead-in copy:)
+Nicht sicher, was Sie einpacken sollen, und was nicht? Einige Hygieneartikel brauchen Sie in immer √ê ganz gleich, ob Ihre Kreuzfahrt im Mittelmeer, in der Ostsee oder in der Karibik stattfindet. Hier ist eine Liste von Dingen, die in Ihrem Koffer nicht fehlen d≈∏rfen.
+
+(Subline:)
+Ein gut sortierter Kulturbeutel.
+(Copy:)
+Gef≈∏llt mit: 100 ml Probefl≈†schchen mit Shampoo, K≈°rperlotion, Gesichtsw≈†sche und Makeup Entferner. Parfum/Rasierwasser, Rasierzeugs, Zahnseide, Zahnb≈∏rste und Zahnpaste.
+(Subline:)
+Artikel des t≈†glichen Bedarfs.
+(Copy:)
+Verstauen Sie die folgenden Artikel in den Seitentaschen Ihres Koffers: Reise F≈°n, Kamm und B≈∏rste und ein Deo. Wenn Sie k≈°nnen, lassen sie diese allt≈†glichen Dinge immer in Ihrem Koffer.
+(Subline:)
+Artikel speziell f≈∏rs Reisen.
+(Copy:)
+Auch diese Gegenst≈†nde sollten in einer Seitentasche Ihres Koffers einen permanenten Platz einnehmen: Komfortable Socken, Ohrst≈°psel, Schlafmaske, Reisewecker, Wegwerfkamera, kleine Ferngl≈†ser, ein Notizblock und Stifte.
+
+
+
+07. Ich packe meinen Koffer ... f≈∏r die Karibik, ff.
+(Subline:)
+F≈∏r die Karibik empfiehlt sich ein Badebeutel.
+(Copy:)
+Damit sind Sie f≈∏rs Pool-Deck und jeden Strandaufenthalt immer bestens vorbereitet: zwei Badeanz≈∏ge/Badehosen, Sonnenbrille, Sonnenschutz, Badeschuhe, Taucherbrille und ein Schnorchel.
+(Subline:)
+Genug Bekleidung f≈∏r eine Woche.
+(Copy:)
+Die folgende Liste ist f≈∏r eine Woche ausgelegt. Wenn Sie zwei Wochen unterwegs sind, verdoppeln Sie die Anzahl der Bekleidungsst≈∏cke oder waschen Sie Ihre Kleidung an Bord. 7mal Unterw≈†sche, 2 leichte Hosen, 3 Shorts, 7 Oberteile, eine formelle Abendgarderobe (falls notwendig), Flip-Flops, leichte Sommerschuhe und High Heels/Oxford-Schuhe.
+(Subline:)
+Mit Kind unterwegs? Packen Sie Spielzeug ein.
+(Copy:)
+Fast alle Cruise Lines haben Kinderg≈†rten mit Spielzeug an Bord. Dennoch sollten Sie f≈∏r Ihr Kind einige besonders lieb gewonnene Kleinigkeiten vom eigenen Spielzeug dabei haben. Vielleicht ein sch≈°nes Buch zum Vorlesen vor Schlafen-gehen.
+
+
+
+08. So cruisen Sie g≈∏nstiger.
+(Headline:)
+So cruisen Sie g≈∏nstiger.
+(Lead-in copy:)
+Eine Kreuzfahrt muss kein Verm≈°gen kosten. Es gibt auch nach der Buchung noch zahlreiche M≈°glichkeiten, wie Sie Ihr Budget an Bord effektiv schonen k≈°nnen, wenn Sie die ≈∏blichen Kreuzfahrt Kosten-Fallen elegant umschiffen. Die besten Tipps haben wir hier f≈∏r Sie aufgelistet.
+
+(Subline:)
+Buchen Sie ein Getr≈†nkepaket.
+(Copy:)
+Fast alle Cruise Lines bieten Getr≈†nke-Pakete oder Getr≈†nke-Flatrates an. Je nach Auswahl (Softdrinks, Softdrinks + Alkohol) kosten diese zwischen US$ 5 und US$ am Tag. Aber lesen Sie das Kleingedruckte. Dort finden Sie erstaunliche Einschr≈†nkungen wie ein Limit pro Mahlzeit oder pro Tag.
+(Subline:)
+Verzichten Sie an Bord aufs Internet.
+(Copy:)
+Das Internet per WLAN ist der wohl teuerste Luxus an Bord eines Kreuzfahrtschiffs. Die Geb≈∏hren betragen zwischen 50 Cents und einem Dollar pro Minute. Besser Sie beschr≈†nken das Surfen auf Landausfl≈∏ge wo Sie Ihr Mobiltelefon oder ein kostenfreies, ≈°ffentliches WLAN nutzen k≈°nnen.
+
+
+
+08. So cruisen Sie g≈∏nstiger, ff.
+(Subline:)
+Meiden Sie den Bord-Fotografen.
+(Copy:)
+Auf vielen Schiffen begegnen Ihnen fr≈∏her oder sp≈†ter ein Bord-Fotografen, der Ihnen anbietet, Sie zu fotografieren. F≈∏r US$ 20 bis US$ 30 pro Abzug. Besser, Sie machen das was Sie immer machen: sch≈°ne Fotos und Selfies mit Ihrem Smartphone. Oder Sie bitten andere G≈†ste, Sie zu fotografieren - ein guter Gespr≈†chs≈°ffner.
+(Subline:)
+Besuchen Sie den Spa zu Off-Zeiten.
+(Copy:)
+Meist kostet der Besuch eines Spa oder einer Wellnessoase auf einem Kreuzfahrtschiff ≈†hnlich viel der einer Luxusoase an Land. Einzige Ausnahme: Ausflugs- oder Hafentage, dann k≈°nnen die Kosten schon 30 Prozent sinken. Das ist dann Wellness f≈∏r Sie und Ihre Brieftasche.
+(Subline:)
+Werden Sie Ihr eigener Fitness-Coach.
+(Copy:)
+Viele Pilates- und Yoga-Kurse kosten bis zu US$ pro Teilnehmer. Es gibt auf Kreuzfahrtschiffen auch viele andere M≈°glichkeiten fit zu bleiben. Laufen Sie an Deck. Oder nehmen Sie sich Yoga-Kursvideos auf Ihrem Laptop mit und trainieren Sie in Ihrer Kabine.
+(Subline:)
+Planen Sie Ihren eigenen Landausflug.
+(Copy:)
+Landg≈†nge und Ausfl≈∏ge k≈°nnen sehr teuer sein. Dabei haben Sie vor jeder Kreuzfahrt Gelegenheit, sich mit Reisef≈∏hrern einzudecken. Werden Sie einfach Ihr eigener Tour-Guide und erleben Sie alles in Ihrem eigenen Tempo. Solange Sie wieder rechtzeitig an Bord sind.
+
+
+
+08. So cruisen Sie g≈∏nstiger, ff.
+(Subline:)
+Waschen Sie Ihre W≈†sche selber.
+(Copy:)
+Cruise Lines machen Ihnen gern die W≈†sche, f≈∏r US$ 2,50 pro St≈∏ck W≈†sche. Etwas preiswerter ist es, eines der Waschcenter zu nutzen. US$ 5 kostet eine Waschladung. Oder Sie bringen einfach genug W≈†sche zum Wechseln mit. Zur Not gibt es ja immer noch die gute alte Handw≈†sche im Bad, falls Ihnen ein kleines Malheur passiert.
+
+
+
+09. Seekrankheit vermeiden: so geht's.
+(Headline:)
+Seekrankheit vermeiden: so geht's.
+(Lead-in copy:)
+Ganz gleich, ob Sie zum ersten Mal eine Kreuzfahrt machen oder regelm≈†¬ßig auf See sind: seekrank zu werden, kann Ihren Urlaub verhageln. Es ist wichtig zu wissen, was Sie tun und einpacken k≈°nnen, um bei rauer See nicht krank in der Koje zu landen.
+
+(Subline:)
+Planen Sie Ihre Reise sorgf≈†ltig.
+(Copy:)
+Es gibt immer Zeiten und Regionen, die Sie f≈∏r eine Kreuzfahrt meiden sollten: Atlantik-‚Ä†berquerungen, das Mittelmeer im Winter, die Karibik zur Hurrikan-Saison. Nat≈∏rlich kann das Meer auch in sicheren Gebieten und Zeiten mal wild sein. Aber mit etwas Planung k≈°nnen Sie das Schlimmste verhindern.
+(Subline:)
+Buchen Sie die richtige Kabine.
+(Copy:)
+Kabinen am Bug, am Heck oder auf den oberen Decks sp≈∏ren die Bewegungen des Schiffs am extremsten. Tiefer liegende Kabinen in der Schiffsmitte sind am vertr≈†glichsten falls Sie anf≈†llig f≈∏r Seekrankheit sind, aber auch immer am schnellsten ausgebucht. 
+(Subline:)
+W≈†hlen Sie ein Schiff mit Stabilisatoren.
+(Copy:)
+Gro¬ße, moderne Kreuzfahrschiffe haben auf der Backbord- und Steuerbord-Seite Stabilisatoren am Unterwasserrumpf. Diese Fl≈∏gel sorgen daf≈∏r, dass die Lage des Schiffs stabil bleibt. Je neuer das Schiff, desto ruhiger liegt es auch bei rauer See im Wasser.
+
+
+
+09. Seekrankheit vermeiden: so geht's, ff.
+(Subline:)
+Packen Sie Medizin ein.
+(Copy:)
+Rezeptfreie Akupressur Armb≈†nder und Antihistamins wie Dramamine¬® helfen schon ganz gut gegen Seekrankheit. Transderm Sco?p¬® - ein rezeptpflichtiges Pflaster - das Sie sich hinters Ohr kleben, macht weniger schl≈†frig als die rezeptfreien Mittel und wirkt zudem deutlich besser.
+(Subline:)
+Handeln Sie schnell.
+(Copy:)
+Achten Sie auf sich. Ein harmloses G≈†hnen kann bereits ein Symptom einer einsetzenden Seekrankheit sein. Sp≈†testens wenn der Wind st≈†rker und das Meer rauer werden, sollten Sie vorsorglich Ihre Mittel gegen Seekrankheit einnehmen und einen ruhigeren Bereich im Schiff aussuchen.
+
+
+
+10. Was auf einer Kreuzfahrt echt nervt.
+(Headline:)
+Was auf einer Kreuzfahrt echt nervt.
+(Lead-in copy:)
+Es gibt eine Menge Dinge, die Kreuzfahrten zur sch≈°nsten Art, den Urlaub zu verbringen, machen. Sie reisen √ê im Mittelmeer zum Beispiel √ê von Spanien ≈∏ber Frankreich nach Italien und sehen die sch≈°nen K≈∏sten. Ohne Auto, Bahn und Flieger. Ohne Koffer ein- und auszupacken, ohne Stress. Dennoch gibt es selbst bei Kreuzfahrten noch so manches was wirklich nervt.
+
+(Subline:)
+Auslaufen wenn es am sch≈°nsten wird.
+(Copy:)
+Stellen Sie sich vor, Sie sind in einer echten Partystadt wie Barcelona und Ihr Schiff l≈†uft gegen 17.00 Uhr aus. Trauern Sie nicht um die verlorene Partynacht, suchen Sie sich n≈†chstes Mal einfach eine Kreuzfahrtlinie und einen Reiseplan √ê z.B. ADIA - bei dem das Schiff in solchen St≈†dten ‚Ä†bernacht bleibt. 
+(Subline:)
+Aufschlag zahlen, weil Sie alleine reisen.
+(Copy:)
+Bei vielen Kreuzfahrtlinien bezahlen Sie einen f≈∏rstlichen Aufschlag (bis zu 70%), wenn Sie alleine reisen. Dabei ist es doch schon hart genug zwischen all den P≈†rchen alleine zu essen. Aber: nicht alle Cruise Lines behandeln Singles so, vergleichen Sie.
+
+
+
+10. Was auf einer Kreuzfahrt echt nervt, ff.
+(Subline:)
+Offline sein wie vor den Neunzigern.
+(Copy:)
+Mag sein, dass mancher es genie¬ßt, endlich keine bl≈°den E-Mails, WhatsApps oder ≈†hnlichen Elektrosmog zu erhalten. Andere wollen online sein. Nur auf den meisten Schiffen kostet das mehr als in den 90ern bei der Deutschen Post und es ist so langsam, dass Sie es auch gleich lassen k≈°nnen. Auch hier gilt, vergleichen Sie. Mit Costa surfen Sie f≈∏r nur US$ 13 immerhin eine Stunde lang.
+(Subline:)
+Kleider machen Leute, aber auch im Urlaub?
+(Copy:)
+F≈∏r alle, die es lieber leger m≈°gen ein Grauen: die formellen Dinner an Bord. Da hat man schon Mal Urlaub und muss die halbe Garderobe mitschleppen, um am Abend mit dem Kapit≈†n zu dinieren. Oder Sie suchen sich eine Cruise Line, bei der es so leger zugeht wie Sie es sich w≈∏nschen. Zum Beispiel AIDA.
+(Subline:)
+Hohe Ausflugskosten, wenn ein paar Tipps schon reichen.
+
+(Copy:)
+Es ist verst√§ndlich, dass Cruise Lines lieber komplette Ausfl≈∏ge verkaufen, als Tipps zu geben und sich das Ausflugs-Gesch≈†ft entgehen zu lassen. Nicht jeder will eine Gruppentour mitmachen, sondern die Reiseziele im eigenen Tempo erleben. Am besten Sie besorgen sich vor der Reise eigene Fremdenf≈∏hrer und bleiben unabh≈†ngig.
+
+(Subline:)
+Eine Karibik-Kreuzfahrt ohne Strandzeit.
+
+(Copy:)
+Es ist leicht auf einer Kreuzfahrt in der Karibik den Strand zu vergessen. Tempel, Einkaufsstopps und Ausfl√ºge nehmen viel Land-Zeit ein. Besser Sie suchen sich vorab die H√§fen aus, die einen tollen Strand haben und verzichten zugunsten eines sch√∂nen Tages am Strand aufs offizielle Programm. Die Ruinen werden auch auf der n√§chsten Tour noch da sein.
